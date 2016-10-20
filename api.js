@@ -104,7 +104,7 @@ var tipo = prompt("Qual informação você deseja visualizar?\n1 - Ônibus\n2 - 
 
 		// Atualiza as posições dos ônibus a cada 10 segundos
 		setInterval(function() {
-			if (tipo != "1") {
+			if (tipo != "2") {
 				getMarkers();
 			}
 		}, 10000);
