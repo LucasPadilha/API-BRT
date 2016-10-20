@@ -4,4 +4,4 @@
 
 dadosabertos.rio.rj.gov.br	FALSE	/	FALSE	2423079872	CFID	24583405
 dadosabertos.rio.rj.gov.br	FALSE	/	FALSE	2423079872	CFTOKEN	96980939
-dadosabertos.rio.rj.gov.br	FALSE	/	FALSE	0	JSESSIONID	f030bc853076ed949e837991a531a662c672
+dadosabertos.rio.rj.gov.br	FALSE	/	FALSE	0	JSESSIONID	f030e80df1f3b2acdc53693059b70746a743
